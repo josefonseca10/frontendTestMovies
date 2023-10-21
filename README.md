@@ -1,4 +1,9 @@
-# frontend
+# Frontend
+
+## Download project
+```
+git clone -b main https://github.com/josefonseca10/frontendTestMovies.git
+```
 
 ## Project setup
 ```
